@@ -1,0 +1,33 @@
+body{
+    background-color: #18171B;
+}
+div{
+    display: inline-block;
+    position: relative;
+    vertical-align: middle;
+}
+.text-block{
+    font-family: "Roboto";
+    font-weight: 900;
+    width: 500px;
+    text-align: left;
+}
+h1{
+    font-size: 36px;
+    color: white;
+}
+h2{
+    font-size: 30px;
+    color: #787488;
+}
+p{
+    font-size: 20px;
+    color: #787488;
+}
+.img-block{
+    width: 223px;
+    top: 100%;
+}
+article{
+    text-align: center;
+}
